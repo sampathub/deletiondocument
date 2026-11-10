@@ -1,0 +1,6 @@
+{
+  "name": "Branch Deletion Document Management System",
+  "description": "Comprehensive Branch Deletion Document Tracking & Release System with daily Excel import, date-range A4 printable register, 55-60 day SLA alerts, and Gemini AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
